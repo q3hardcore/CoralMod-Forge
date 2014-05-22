@@ -1,0 +1,10 @@
+[{
+    "modid": "coralmod",
+    "name": "CoralReef Mod",
+    "version": "1.7.2",
+    "credits": "Nandonalt (original author)",
+    "authorList": ["q3hardcore"],
+    "description": "A continuation of Nandonalt's CoralMod.",
+    "url": "http://www.minecraftforum.net/topic/1106449-",
+    "logoFile": "/logo.png"
+}]
